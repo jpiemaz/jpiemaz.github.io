@@ -1,10 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Cantarell);
 
 #name {
-  font-size: 3em;
-  margin-left:2cm;
+  font-size: 4em;
+  margin-left:3cm;
   float: left;
-  color: #499ed9;
+  color: #8849D9;
   padding: 20px 0px 20px 0px;
 }
 
@@ -20,7 +20,7 @@ body {
   font-family: 'Cantarell';
 }
 
-a:link {color: #499ed9;text-decoration:none;}
-a:visited {color: #499ed9;text-decoration:none;}
-a:hover {color: #499ed9;text-decoration:none;}
-a:active {color: #499ed9;text-decoration:none;}
+a:link {color: #8849D9;text-decoration:none;}
+a:visited {color: #8849D9;text-decoration:none;}
+a:hover {color: #8849D9;text-decoration:none;}
+a:active {color: #8849D9;text-decoration:none;}
